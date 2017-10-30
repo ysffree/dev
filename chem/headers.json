@@ -1,0 +1,20 @@
+[
+	{
+		"Drug_Class":"药物类别",
+		"Drug_CHI":"药物名称",
+		"Gene":"检测基因",
+		"Variant":"检测位点",
+		"Genotype":"基因型",
+		"Level":"证据等级",
+		"Anno_ch":"用药提示"
+	},
+	{
+		"drug_class":"药物类别",
+		"drug_ch":"药物名称",
+		"drug_gene":"检测基因",
+		"drug_var":"检测位点",
+		"genotype1":"基因型",
+		"LV":"证据等级",
+		"var_effect":"用药提示"
+	}
+]
